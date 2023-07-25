@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/wazox23/festka-website/static/css/main.0ed75d6a.css",
-    "main.js": "/wazox23/festka-website/static/js/main.a9f34bff.js",
+    "main.js": "/wazox23/festka-website/static/js/main.88ddb9fe.js",
     "index.html": "/wazox23/festka-website/index.html",
     "main.0ed75d6a.css.map": "/wazox23/festka-website/static/css/main.0ed75d6a.css.map",
-    "main.a9f34bff.js.map": "/wazox23/festka-website/static/js/main.a9f34bff.js.map"
+    "main.88ddb9fe.js.map": "/wazox23/festka-website/static/js/main.88ddb9fe.js.map"
   },
   "entrypoints": [
     "static/css/main.0ed75d6a.css",
-    "static/js/main.a9f34bff.js"
+    "static/js/main.88ddb9fe.js"
   ]
 }
