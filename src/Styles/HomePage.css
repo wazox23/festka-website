@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=Tektur:wght@600&display=swap");
+.my-bg {
+  background-repeat: no-repeat;
+  background-size: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.carousel-caption {
+  position: static;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50%;
+}
+
+.header-title-font {
+  font-family: "Tektur", cursive;
+  color: white;
+}
+
+.img-fluid {
+  max-height: 90vh !important;
+  width: auto !important;
+}/*# sourceMappingURL=HomePage.css.map */

@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css2?family=Tektur:wght@600&display=swap");
+.bg-img {
+  background-image: url("https://festka.com/cdn/shop/files/glor_1512x.jpg?v=1670343773");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 80vh;
+}
+
+.bg-img-1 {
+  background-image: url("https://festka.com/cdn/shop/files/ONDRASH_scal_anna-8_1512x.jpg?v=1670344174");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 80vh;
+}
+
+.bg-img-2 {
+  background-image: url("https://festka.com/cdn/shop/files/spectre_rouleur20_1512x.jpg?v=1670345850");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 80vh;
+}
+
+.title-font {
+  font-family: "Tektur", cursive;
+  color: black;
+}
+
+.text-pink {
+  color: var(--bs-pink);
+}/*# sourceMappingURL=Limited.css.map */

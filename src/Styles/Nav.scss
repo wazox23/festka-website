@@ -1,0 +1,32 @@
+a {
+  background-image: linear-gradient(to right, #e8450c, #e8450c 50%, #000 50%);
+  background-size: 200% 100%;
+  background-position: -100%;
+  display: inline-block;
+  padding: 5px 0;
+  position: relative;
+  color: #000;
+  transition: all 0.3s ease-in-out;
+}
+a:before {
+  content: "";
+  background: #e8450c;
+  display: block;
+  position: absolute;
+  bottom: -3px;
+  left: 0;
+  width: 0;
+  height: 3px;
+  transition: all 0.3s ease-in-out;
+}
+a:hover {
+  background-position: 0;
+}
+
+a:hover::before {
+  width: 100%;
+}
+
+.navbar-shadow {
+  box-shadow: 0 4px 2px -2px rgba(0, 0, 0, 0.1);
+}
